@@ -1,8 +1,5 @@
 # 5thweek-
-the program colection of the 5th week
-
-the 5th week
-inludes:
+The program collection of the 5th week includes:
 - Dino
 - Grade
 - Reactiontime
@@ -20,4 +17,7 @@ work
 - thisthat adds things to a list in this case names
 - towerdefense does not have a ending a red dot folows you you have to outrunn it and catsh things however you cand chatch anything till now only gameover
 
-  to play you go to the relese and use the menu.exe data it contains the code  and the code space
+## Windows executable
+
+The Windows release is built from `menu.py` as `5thweek-menu.exe`.
+Download it from the repository's Releases page.
